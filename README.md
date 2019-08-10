@@ -1,2 +1,2 @@
 # Calculator-Api-Rest
-Calculador com Rest para estudos
+Calculadora API Rest, Spring para estudos
